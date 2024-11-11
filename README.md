@@ -23,3 +23,4 @@ Run the app, select a currency, and monitor live prices.
 
 The ByteCoin app is a great project for developers interested in API integration, JSON parsing, and real-time data display. It demonstrates how to build financial apps and handle dynamic data in Swift.
 
+https://github.com/user-attachments/assets/13dda01d-ab21-4ec3-995f-8648698ac644
